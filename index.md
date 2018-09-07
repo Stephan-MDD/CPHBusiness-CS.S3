@@ -1,3 +1,8 @@
+# Collection of Repositories @ 3. Semester
+### Stephan Djurhuus 2018
+### CPHBusiness CS (Computer Sience)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Stephan-MDD/CPHBusiness-CS.S3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
