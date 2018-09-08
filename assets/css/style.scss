@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 
 h2 {
-  color: blue;
   border-bottom-style: 1px solid lightgrey;
+}
+
+.page-header {
+  background-color: red;
 }
