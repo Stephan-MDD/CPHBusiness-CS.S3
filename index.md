@@ -3,9 +3,14 @@
 
 ## Table of Content
 
-## Curriculum
 
-### Threads *week 1*
+
+## Threads *week 1*
+
+### Exercises
+* **Day 1**
+
+### Curriculum
 * **Day 1**
 
   * Kunne forklare i hvilke situationer der er behov for tråde i javakode.
@@ -20,6 +25,13 @@
   * Kunne demonstrere en deadlock situation i egen kode. Generer eget unikt eksempel.
   * Kunne foklare hvordan java streams kan hjælpe med concurrency problemer"
 
+* **Day 3**
+
+  * Kunne forklare forskellen på runnable og callable 
+  * Kunne forklare Futures i java 
+  * Kunne demonstrere brug af Executor service i egen kode.
+  * Kunne forklare hvilket problem executor service løser og fortælle/vise alternativ løsning.
+  * Kunne demonstrere brug af Futures i egen kode."
 ---
 
 ### HTTP & Network
