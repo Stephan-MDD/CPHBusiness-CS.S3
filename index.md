@@ -3,34 +3,11 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ## Table of Content
 
-[THREADS](subjects/w1-threads.md)
-
-
-## Threads *( week 1 )*
+## [Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
 * **Day 1**
   * ...
-
-### Curriculum
-* **Day 1**
-  * Kunne forklare i hvilke situationer der er behov for tråde i javakode.
-  * Kunne forklare race condition
-  * Kunne demonstrere race condition i kode
-  * Kunne demonstrere løsning på race condition"
-
-* **Day 2**
-  * Kunne forklare producer-consumer problemstillingen og hvornår dette mønster er brugbart.
-  * Kunne demonstrere producer-consumer pattern i egen kode.
-  * Kunne demonstrere en deadlock situation i egen kode. Generer eget unikt eksempel.
-  * Kunne foklare hvordan java streams kan hjælpe med concurrency problemer"
-
-* **Day 3**
-  * Kunne forklare forskellen på runnable og callable 
-  * Kunne forklare Futures i java 
-  * Kunne demonstrere brug af Executor service i egen kode.
-  * Kunne forklare hvilket problem executor service løser og fortælle/vise alternativ løsning.
-  * Kunne demonstrere brug af Futures i egen kode."
 
 ### Resources
 * ...
@@ -45,8 +22,8 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Curriculum
 * **Day 1**
   * Kunne forklare konceptuelt om begrebet TCP/IP
-  * Kunne forklare konceptuelt om IP-addresser, ▉ herunder forskellen på private og offentlige IP-addresser
-  * Kunne finde sin nuværende private og ▉ offenlige IP-addresse
+  * Kunne forklare konceptuelt om IP-addresser, herunder forskellen på private og offentlige IP-addresser
+  * Kunne finde sin nuværende private og offenlige IP-addresse
   * Kunne forklare om porte og en række portnumre afsat til specifikke protokoller
   * Kunne forklare konceptuelt om DNS-systemet og funktionen af en DNS-server
   * Kunne forklare konceptuelt om ideen med DHCP-protokollen og en DHCP-server
