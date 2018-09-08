@@ -1,5 +1,5 @@
-# Repository Collection @ 3. Semester 2018
-**Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)* **
+# Material Collection @ 3. Semester 2018
+Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ## Table of Content
 
