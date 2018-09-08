@@ -5,7 +5,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 
 
-## Threads *week 1*
+## Threads *( week 1 )*
 
 ### Exercises
 * **Day 1**
