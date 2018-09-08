@@ -32,6 +32,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * Kunne forklare hvilket problem executor service løser og fortælle/vise alternativ løsning.
   * Kunne demonstrere brug af Futures i egen kode."
 
+### Resources
+* ...
+
 
 ## HTTP & Network *week 2*
 
@@ -64,6 +67,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * Kunne forstå og benytte begreber krævet for at opsætte en server med et Domænenavn, en Reverse Proxy og SSL
   * Kunne opsætte en server i praksis med domænenavn, reverse proxy og https"
 
+### Resources
+* ...
+
 
 ## Java Script *week 3*
 
@@ -84,4 +90,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * Kunne demonstrere egne kodeeksempler med DOM-interaktion, herunder element udvælgelse, styling og håndtering af tags, attributter og formulardata
   * Kunne demonstrere brug af fetch til serverkald og brug af json data til DOM manipulation"
 
+### Resources
+* ...
 
