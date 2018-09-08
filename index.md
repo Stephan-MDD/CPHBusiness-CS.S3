@@ -1,4 +1,4 @@
-# Material Collection @ 3. Semester 2018
+# Material Collection - 3. Semester 2018
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ## Table of Content
