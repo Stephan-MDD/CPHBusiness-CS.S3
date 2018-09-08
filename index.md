@@ -3,6 +3,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ## Table of Content
 
+[THREADS](subjects/w1-threads.md)
 
 
 ## Threads *( week 1 )*
