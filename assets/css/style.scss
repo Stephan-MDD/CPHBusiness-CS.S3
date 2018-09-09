@@ -62,14 +62,28 @@ h2.sidebar {
 
 @media only screen and (max-width: 1445px) {
     .sidebar {
-        animation-name: example;
-        animation-duration: 4s;
+        animation-name: hide-sidebar;
+        animation-duration: 1s;
         
         /*visibility: hidden;*/
     }
 }
 
-@keyframes example {
+@media only screen and (min-width: 1445px) {
+    .sidebar {
+        animation-name: show-sidebar;
+        animation-duration: 1s;
+        
+        /*visibility: hidden;*/
+    }
+}
+
+@keyframes hide-sidebar {
     from   {left: 0px;}
     to {left: -200px;}
+}
+
+@keyframes show-sidebar {
+    from   {left: -200px;}
+    to {left: 0px;}
 }
