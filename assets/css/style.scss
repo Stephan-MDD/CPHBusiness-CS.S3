@@ -59,14 +59,14 @@ h2.sidebar {
     color: #66ffe0;
 }
 
-@media screen and (max-width: 1445px) {
+@media (max-width: 1445px) {
     .sidebar {
         animation-name: hide-sidebar;
         animation-duration: 1s;
     }
 }
 
-@media screen and (min-width: 1445px) {
+@media (min-width: 1445px) {
     .sidebar {
         animation-name: show-sidebar;
         animation-duration: 1s;   
