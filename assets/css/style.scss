@@ -72,7 +72,7 @@ h2.sidebar {
     color: #66ffe0;
 }
 
-@media (max-width: 1445px){
+@media screen and (max-width: 1445px){
     .sidebar {
         left: -200px;
     }
