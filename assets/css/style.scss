@@ -3,8 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h2 {
-  border-bottom-style: 1px solid lightgrey;
+h1, h2, h3
+{
+    border-bottom:1px solid #CCC;
+    padding-bottom:3px;
 }
 
 .page-header {
