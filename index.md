@@ -13,7 +13,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
-## [HTTP & Network *week 2*](subjects/w2-thhp-network.md)
+## [HTTP & Network *( week 2 )*](subjects/w2-thhp-network.md)
 
 ### Exercises
 * **Day 1**
@@ -23,7 +23,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
-## [Java Script *week 3*](subjects/w3-java-script.md)
+## [Java Script *( week 3 )*](subjects/w3-java-script.md)
 
 ### Exercises
 * **Day 1**
