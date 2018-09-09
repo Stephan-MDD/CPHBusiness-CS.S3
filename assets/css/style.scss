@@ -24,7 +24,7 @@ h2.main-content {
 
 .page-header {
   background-image: linear-gradient(#2b323f, #2b323f);
-  box-shadow: 0px 10px 25px grey;
+  box-shadow: 0px 10px 25px black;
 }
 
 .main-content {
@@ -41,8 +41,8 @@ a {
 
 .break {
     position: relativ;
-    left: 0px;
-    width: 1200px;
+    left: - 100px;
+    width: 100px;
     box-shadow: 0px 5px 5px grey;
 }
 
