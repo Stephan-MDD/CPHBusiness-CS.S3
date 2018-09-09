@@ -4,9 +4,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="sidebar">
  
 <h3>Table of Content</h3>
-<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
-<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
-<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
 <a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
 
 </div>
