@@ -26,3 +26,12 @@ h2.main-content {
 ul {
   margin-bottom: 15px;
 }
+
+.sidebar {
+    position: fixed;
+    left: 0px;
+    top: 150px;
+    
+    width: 200px;
+    heigth: 100px;
+}
