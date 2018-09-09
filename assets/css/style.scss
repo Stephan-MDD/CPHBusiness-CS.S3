@@ -32,12 +32,12 @@ a {
 }
 
 .sidebar {
-    position: absolut;
+    position: fixed;
     left: 0px;
-    top: 150px;
+    top: 0px;
     
     width: 200px;
-    height: 100px;
+    height: 100%;
     
     background-color: #000d1a;
 }
