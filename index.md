@@ -4,12 +4,12 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="sidebar">
  
 <h3>Table of Content</h3>
-<ol>
-<li><a class="toc-ref" href="#java-script--week-3-">JavaScript</a></li>
-<li><a class="toc-ref" href="#java-script--week-3-">JavaScript</a></li>
-<li><a class="toc-ref" href="#java-script--week-3-">JavaScript</a></li>
-<li><a class="toc-ref" href="#java-script--week-3-">JavaScript</a></li>
-</ol>
+
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
+
 </div>
 
 ## [Threads *( week 1 )*](subjects/w1-threads.md)
