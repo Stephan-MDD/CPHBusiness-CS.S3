@@ -16,6 +16,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
+<br class="break">
 
 ## [HTTP & Network *( week 2 )*](subjects/w2-http-network.md)
 
@@ -26,6 +27,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
+<br class="break">
 
 ## [Java Script *( week 3 )*](subjects/w3-java-script.md)
 
@@ -35,3 +37,5 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ### Resources
 * ...
+
+<br class="break">
