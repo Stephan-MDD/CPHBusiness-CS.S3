@@ -40,4 +40,11 @@ a {
     height: 100%;
     
     background-color: #000d1a;
+    visibility: visible;
+}
+
+@media only screen and (max-width: 600px) {
+    .sidebar {
+        visibility: hidden;
+    }
 }
