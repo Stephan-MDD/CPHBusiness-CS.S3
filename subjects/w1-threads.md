@@ -7,11 +7,14 @@
  
 <h3 id="sb-title">Table of Content</h3>
 
+<a class="toc-ref" href="#definition">Definition</a><br>
 <a class="toc-ref" href="#exercises">Exercises</a><br>
 <a class="toc-ref" href="#curriculum">Curriculum</a><br>
 <a class="toc-ref" href="#resources">Resources</a><br>
 
 </div>
+
+### Definition
 
 ### Exercises
 * **Day 1**
