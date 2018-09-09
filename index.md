@@ -1,8 +1,6 @@
 # Material Collection - 3. Semester 2018
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
-## Table of Content
-
 ## [Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
@@ -33,4 +31,8 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
-<div class="sidebar">im a side bar</div>
+<div class="sidebar">
+ 
+ ## Table of Content
+
+</div>
