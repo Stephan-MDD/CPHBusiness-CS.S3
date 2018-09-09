@@ -1,6 +1,6 @@
 # Material Collection - 3. Semester 2018
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
-<div class="break"><br><br></div>
+<div class="break"><br></div>
 <div class="sidebar">
  
 <h3>Table of Content</h3>
