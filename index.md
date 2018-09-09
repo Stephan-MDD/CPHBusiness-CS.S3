@@ -12,7 +12,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="break"><br></div>
  
- ## [Threads *( week 1 )*](subjects/w1-threads.md)
+## [Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
 * **Day 1**
