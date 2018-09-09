@@ -48,7 +48,7 @@ a {
 .sidebar {
     position: fixed;
     top: 0px;
-    
+    left: 0px;
     width: 200px;
     height: 100%;
     background-color: #e1e5eb;
@@ -64,7 +64,7 @@ h2.sidebar {
         animation-name: hide-sidebar;
         animation-duration: 1s;
         
-        /*visibility: hidden;*/
+        visibility: hidden;
     }
 }
 
@@ -73,7 +73,7 @@ h2.sidebar {
         animation-name: show-sidebar;
         animation-duration: 1s;
         
-        /*visibility: hidden;*/
+        visibility: visible;
     }
 }
 
