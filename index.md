@@ -3,7 +3,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ## Table of Content
 
----
 ## [Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
@@ -13,7 +12,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
----
 ## HTTP & Network *week 2*
 
 ### Exercises
@@ -48,7 +46,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
----
 ## Java Script *week 3*
 
 ### Exercises
