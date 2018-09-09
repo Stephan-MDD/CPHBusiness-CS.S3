@@ -10,8 +10,8 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
 
 </div>
-
 <div class="card-container">
+ 
  ## [Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
