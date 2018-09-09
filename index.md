@@ -13,7 +13,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
-## [HTTP & Network *( week 2 )*](subjects/w2-thhp-network.md)
+## [HTTP & Network *( week 2 )*](subjects/w2-http-network.md)
 
 ### Exercises
 * **Day 1**
