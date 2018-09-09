@@ -3,7 +3,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="break"><br></div>
 <div class="sidebar">
  
-<div id="sb-title">Table of Content</div>
+<h3 id="sb-title">Table of Content</h3>
 
 <a class="toc-ref" href="#threads--week-1-">Threads</a><br>
 <a class="toc-ref" href="#http--network--week-2-">HTTP Network</a><br>
