@@ -4,11 +4,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="sidebar">
  
 <h2>Table of Content</h2>
-<ul>
- <li>Threads</li>
- <li>HTTP Network</li>
- <li>JavaScript</li>
-</ul>
+<a href="#java-script--week-3-">JavaScript</a>
 
 </div>
 
