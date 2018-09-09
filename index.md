@@ -3,8 +3,11 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="sidebar">
  
-<h2>Table of Content</h2>
-<a href="#java-script--week-3-">JavaScript</a>
+<h3>Table of Content</h3>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
+<a class="toc-ref" href="#java-script--week-3-">JavaScript</a>
 
 </div>
 
