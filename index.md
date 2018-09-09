@@ -3,7 +3,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="sidebar">
  
- ## Table of Content
+<h2>Table of Content</h2>
 
 </div>
 
