@@ -33,3 +33,4 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
+<div class="sidebar">im a side bar</div>
