@@ -1,6 +1,10 @@
-## HTTP SITE
+# HTTP and Network (week 2)
 
+[*back to index*](../index.md)
 
+### Exercises
+* **Day 1**
+  * ...
 
 ### Curriculum
 * **Day 1**
@@ -26,3 +30,6 @@
   * Kunne forklare konceptuelt, om assymetrisk kryptering, signatures og certifikater, relateret til TLS
   * Kunne forstå og benytte begreber krævet for at opsætte en server med et Domænenavn, en Reverse Proxy og SSL
   * Kunne opsætte en server i praksis med domænenavn, reverse proxy og https"
+
+### Resources
+* ...
