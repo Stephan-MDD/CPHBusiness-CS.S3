@@ -54,6 +54,8 @@ a {
     background-color: #e1e5eb;
     /*visibility: hidden;*/
     transition: left 2s;
+    
+    padding: 15px;
 }
 
 h2.sidebar {
@@ -63,28 +65,5 @@ h2.sidebar {
 @media (max-width: 1445px) {
     .sidebar {
         left: -200px;
-        /*animation-name: hide-sidebar;
-        animation-duration: 1s;*/
     }
 }
-
-/*
-@media (min-width: 1445px) {
-    .sidebar {
-        animation-name: show-sidebar;
-        animation-duration: 1s;
-    }
-}*/
-/*
-@keyframes hide-sidebar {
-    from   {left: 0px;}
-    to {left: -200px;}
-    visibility: hidden;
-}
-
-@keyframes show-sidebar {
-    from   {left: -200px;}
-    to {left: 0px;}
-    visibility: visible;
-}
-*/
