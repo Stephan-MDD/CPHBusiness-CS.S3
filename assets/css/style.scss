@@ -58,13 +58,13 @@ a {
 }
 
 .toc-ref {
-    pading: 10px;
+    padding: 10px;
     color: #cccccc;
 }
 
 .toc-ref {
     font-size: 18px;
-    pading: 15px;
+    padding: 15px;
     color: #6ca6e0;
 }
 
@@ -72,7 +72,7 @@ h2.sidebar {
     color: #66ffe0;
 }
 
-@media (max-width: 1445px) {
+max-width: 1445px{
     .sidebar {
         left: -200px;
     }
