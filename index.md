@@ -11,7 +11,8 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 </div>
 
-## [Threads *( week 1 )*](subjects/w1-threads.md)
+<div class="card-container">
+ ## [Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
 * **Day 1**
@@ -20,8 +21,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
-<hr>
-
+</div>
+<div class="card-container">
+ 
 ## [HTTP & Network *( week 2 )*](subjects/w2-http-network.md)
 
 ### Exercises
@@ -31,8 +33,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
-<div class="break"><br></div>
-
+</div>
+<div class="card-container">
+ 
 ## [Java Script *( week 3 )*](subjects/w3-java-script.md)
 
 ### Exercises
@@ -42,4 +45,4 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
-<div class="break"><br></div>
+</div>
