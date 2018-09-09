@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background-color: #0b303f;
+}
+
 h1 {
     border-bottom:1px solid #CCC;
     padding-bottom:3px;
