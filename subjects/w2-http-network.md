@@ -2,7 +2,7 @@
 
 [*back to index*](../index.md)
 
-<div class="break"><br></div>
+<div class="break"></div>
 <div class="sidebar">
  
 <h3 id="sb-title">Table of Content</h3>
