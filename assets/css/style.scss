@@ -60,11 +60,12 @@ a {
 .toc-ref {
     font-size: 16px;
     padding: 10px;
-    color: #808080;
+    color: # #bfbfbf;
     opcity: 0.5;
 }
 
 .toc-ref:hover {
+    text-decoration: none;
     font-size: 18px;
     margin: 10px;
     margin-left: 0;
