@@ -62,6 +62,14 @@ h2.sidebar {
 
 @media only screen and (max-width: 1445px) {
     .sidebar {
-        visibility: hidden;
+        animation-name: example;
+        animation-duration: 4s;
+        
+        /*visibility: hidden;*/
     }
+}
+
+@keyframes example {
+    from   {left: 0px;}
+    to {left: -200px;}
 }
