@@ -10,7 +10,8 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
 
 </div>
-<div class="card-container">
+
+<div class="break"><br></div>
  
  ## [Threads *( week 1 )*](subjects/w1-threads.md)
 
@@ -21,8 +22,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
-</div>
-<div class="card-container">
+<div class="break"><br></div>
  
 ## [HTTP & Network *( week 2 )*](subjects/w2-http-network.md)
 
@@ -33,8 +33,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
-</div>
-<div class="card-container">
+<div class="break"><br></div>
  
 ## [Java Script *( week 3 )*](subjects/w3-java-script.md)
 
@@ -45,4 +44,4 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * ...
 
-</div>
+
