@@ -60,12 +60,14 @@ a {
 .toc-ref {
     font-size: 16px;
     padding: 10px;
-    color: #999999;
+    color: #808080;
+    opcity: 0.5;
 }
 
 .toc-ref:hover {
     font-size: 18px;
     margin: 10px;
+    margin-left: 0;
     color: #6ca6e0;
 }
 
