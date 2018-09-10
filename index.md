@@ -6,9 +6,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <a class="toc-ref" href="#http--network--week-2-">HTTP Network</a><br>
     <a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
     <div id="sb-dots">
-        <div class="dot">&#8226;</div>
-        <div class="dot">&#8226;</div>
-        <div class="dot">&#8226;</div>
+        <span class="dot">&#8226;</span>
+        <span class="dot">&#8226;</span>
+        <span class="dot">&#8226;</span>
     </div>
 </div>
 
