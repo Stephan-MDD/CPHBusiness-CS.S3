@@ -59,5 +59,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * [CPHBusiness Github W4](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
 * ...
 
-
+<div id="alpha">Hover over me!</div>
+<div id="beta">I will show on hover</div>
 
