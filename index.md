@@ -11,7 +11,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 </div>
 
 <div class="break"><br></div>
-<div class="week-number"><h3>week 1</h3></div>
+<div class="week-number">week 1</div>
  
 ## [Concurrency and Threads](subjects/w1-threads.md)
 
