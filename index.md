@@ -25,7 +25,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="break"><br></div>
  
 ## [Networks, HTTP, X-as-a-service, Virtualization, TLS](subjects/w2-http-network.md)
-<div class="week-number">week 2</div>
+
+<div class="week-number"><h4>week 2</h4></div>
+
 ### Exercises
 * **Day 1**
   * ...
