@@ -7,7 +7,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <a class="toc-ref" href="#threads--week-1-">Threads</a><br>
     <a class="toc-ref" href="#http--network--week-2-">HTTP Network</a><br>
     <a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
-    <button id="sidebar-bars"><i class="fa fa-bars"></i></button>
+    <div id="sidebar-bars"><i class="fa fa-bars"></i></div>
 </div>
 
 <div class="break"><br></div>
