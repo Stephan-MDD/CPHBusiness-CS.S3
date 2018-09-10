@@ -59,4 +59,4 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
-<div id="">&#186 &#186 &#186</div>
+<div id="">&#8226; &#8226 &#8226</div>
