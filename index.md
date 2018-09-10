@@ -13,7 +13,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="break"><br></div>
  
-## [W1. Concurrency and Threads](subjects/w1-threads.md)
+## [**W1.** Concurrency and Threads](subjects/w1-threads.md)
 
 ### Exercises
 * **Day 1**
