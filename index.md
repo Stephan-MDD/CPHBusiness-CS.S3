@@ -5,7 +5,11 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <a class="toc-ref" href="#threads--week-1-">Threads</a><br>
     <a class="toc-ref" href="#http--network--week-2-">HTTP Network</a><br>
     <a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
-    <div id="sb-dots">&#8226;&#8226;&#8226;</div>
+    <div id="sb-dots">
+        <span class="dot">&#8226;</span>
+        <span class="dot">&#8226;</span>
+        <span class="dot">&#8226;</span>
+    </div>
 </div>
 
 <div class="break"><br></div>
