@@ -59,4 +59,4 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 
-<div id="">&#8226; &#8226 &#8226</div>
+<div id="sidebar-toggle">&#8226; &#8226 &#8226</div>
