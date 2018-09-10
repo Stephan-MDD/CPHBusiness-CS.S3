@@ -47,8 +47,12 @@ a {
 	top: 20px;
 	right: 20px;
 	width: 10px;
-	height: 2px;
 	font-size: 36px;
+}
+
+.dots {
+	display: block;
+	width: 10px;
 }
 
 .sidebar:hover {
