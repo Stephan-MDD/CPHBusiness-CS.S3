@@ -43,10 +43,11 @@ a {
 }
 
 #sb-dots {
-	position: absolut;
+	position: absolute;
 	top: 20px;
 	right: 20px;
 	width: 10px;
+	heigth: 10px;
 	font-size: 24px;
 }
 
@@ -84,18 +85,3 @@ h3 {
         left: -150px;
     }
 }
-
-#beta {
-    background-color: yellow;
-    padding: 20px;
-    display: none;
-}
-    
-#alpha:hover + #beta {
-    display: block;
-}
-
-#beta:hover {
-    display: block;
-}
-
