@@ -47,6 +47,7 @@ a {
 	top: 20px;
 	right: 20px;
 	font-size: 18px;
+	visibility: visible;
 }
 
 .sidebar:hover {
@@ -81,4 +82,7 @@ h3 {
     .sidebar {
         left: -150px;
     }
+	#sidebar-bars {
+		visibility: hidden;
+	}
 }
