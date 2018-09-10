@@ -11,7 +11,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 </div>
 
 <div class="break"><br></div>
-<div class="week-number"><h2>week 1</h2></div>
+<div class="week-number"><h3>week 1</h3></div>
  
 ## [Concurrency and Threads](subjects/w1-threads.md)
 
@@ -24,7 +24,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 <div class="break"><br></div>
-<div class="week-number"><h2>week 2</h2></div>
+<div class="week-number"><h3>week 2</h3></div>
 
 ## [Networks, HTTP, X-as-a-service, Virtualization, TLS](subjects/w2-http-network.md)
 
@@ -37,7 +37,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 <div class="break"><br></div>
-<div class="week-number"><h2>week 3</h2></div>
+<div class="week-number"><h3>week 3</h3></div>
  
 ## [JavaScript and the Document Object Model (DOM)](subjects/w3-java-script.md)
 
@@ -50,7 +50,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 <div class="break"><br></div>
- <div class="week-number"><h2>week 4</h2></div>
+ <div class="week-number"><h3>week 4</h3></div>
  
 ## [ORM (Object Relational Mapping) with JPA (Java Persistence API)](subjects/w3-java-script.md)
 
