@@ -11,8 +11,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 </div>
 
 <div class="break"><br></div>
+<div class="week-number"><h2>week 1</h2></div>
  
-## [Concurrency and Threads *( week 1 )*](subjects/w1-threads.md)
+## [Concurrency and Threads](subjects/w1-threads.md)
 
 ### Exercises
 * **Day 1**
@@ -23,10 +24,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 <div class="break"><br></div>
- 
-## [Networks, HTTP, X-as-a-service, Virtualization, TLS](subjects/w2-http-network.md)
+<div class="week-number"><h2>week 2</h2></div>
 
-<div class="week-number"><h4>week 2</h4></div>
+## [Networks, HTTP, X-as-a-service, Virtualization, TLS](subjects/w2-http-network.md)
 
 ### Exercises
 * **Day 1**
@@ -37,8 +37,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 <div class="break"><br></div>
+<div class="week-number"><h2>week 3</h2></div>
  
-## [JavaScript and the Document Object Model (DOM) *( week 3 )*](subjects/w3-java-script.md)
+## [JavaScript and the Document Object Model (DOM)](subjects/w3-java-script.md)
 
 ### Exercises
 * **Day 1**
@@ -49,8 +50,9 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * ...
 
 <div class="break"><br></div>
+ <div class="week-number"><h2>week 4</h2></div>
  
-## [ORM (Object Relational Mapping) with JPA (Java Persistence API) *( week 3 )*](subjects/w3-java-script.md)
+## [ORM (Object Relational Mapping) with JPA (Java Persistence API)](subjects/w3-java-script.md)
 
 ### Exercises
 * **Day 1**
