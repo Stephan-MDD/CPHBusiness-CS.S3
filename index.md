@@ -19,7 +19,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * ...
 
 ### Resources
-* [CPHBusiness Github W2](https://github.com/Cphdat3sem2018f/week1-threads)
+* [CPHBusiness Github W1](https://github.com/Cphdat3sem2018f/week1-threads)
 * ...
 
 <div class="break"><br></div>
