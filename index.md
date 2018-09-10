@@ -12,35 +12,50 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="break"><br></div>
  
-## [Threads *( week 1 )*](subjects/w1-threads.md)
+## [Concurrency and Threads *( week 1 )*](subjects/w1-threads.md)
 
 ### Exercises
 * **Day 1**
   * ...
 
 ### Resources
+* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
 * ...
 
 <div class="break"><br></div>
  
-## [HTTP & Network *( week 2 )*](subjects/w2-http-network.md)
+## [Networks, HTTP, X-as-a-service, Virtualization, TLS *( week 2 )*](subjects/w2-http-network.md)
 
 ### Exercises
 * **Day 1**
   * ...
 
 ### Resources
+* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS)
 * ...
 
 <div class="break"><br></div>
  
-## [Java Script *( week 3 )*](subjects/w3-java-script.md)
+## [JavaScript and the Document Object Model (DOM) *( week 3 )*](subjects/w3-java-script.md)
 
 ### Exercises
 * **Day 1**
   * ...
 
 ### Resources
+* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week3-javascript)
+* ...
+
+<div class="break"><br></div>
+ 
+## [ORM (Object Relational Mapping) with JPA (Java Persistence API) *( week 3 )*](subjects/w3-java-script.md)
+
+### Exercises
+* **Day 1**
+  * ...
+
+### Resources
+* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
 * ...
 
 
