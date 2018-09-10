@@ -4,9 +4,10 @@
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="sidebar">
     <h3 id="sb-title">Table of Content</h3>
-    <a class="toc-ref" href="#threads--week-1-">Threads</a><br>
-    <a class="toc-ref" href="#http--network--week-2-">HTTP Network</a><br>
-    <a class="toc-ref" href="#java-script--week-3-">JavaScript</a><br>
+    <a class="toc-ref" href="#w1-concurrency-and-threads">Threads</a><br>
+    <a class="toc-ref" href="#w2-networks-http-x-as-a-service-virtualization-tls">HTTP Network</a><br>
+    <a class="toc-ref" href="#w3-javascript-and-the-document-object-model-dom">JavaScript</a><br>
+    <a class="toc-ref" href="#w4-orm-object-relational-mapping-with-jpa-java-persistence-api">ORM JPA</a><br>
     <div id="sidebar-bars"><i class="fa fa-bars"></i></div>
 </div>
 
@@ -24,7 +25,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="break"><br></div>
 
-## [W2. Networks, HTTP, X-as-a-service, Virtualization, TLS](subjects/w2-http-network.md)
+## [W2. **Networks, HTTP, X-as-a-service, Virtualization, TLS**](subjects/w2-http-network.md)
 
 ### Exercises
 * **Day 1**
