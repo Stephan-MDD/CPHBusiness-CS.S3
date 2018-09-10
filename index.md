@@ -19,7 +19,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * ...
 
 ### Resources
-* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
+* [CPHBusiness Github W2](https://github.com/Cphdat3sem2018f/week1-threads)
 * ...
 
 <div class="break"><br></div>
@@ -31,7 +31,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * ...
 
 ### Resources
-* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS)
+* [CPHBusiness Github W2](https://github.com/Cphdat3sem2018f/week2-Net-Http-TLS)
 * ...
 
 <div class="break"><br></div>
@@ -43,7 +43,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * ...
 
 ### Resources
-* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week3-javascript)
+* [CPHBusiness Github W3](https://github.com/Cphdat3sem2018f/week3-javascript)
 * ...
 
 <div class="break"><br></div>
@@ -55,7 +55,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * ...
 
 ### Resources
-* [CPHBusiness Github](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
+* [CPHBusiness Github W4](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
 * ...
 
 
