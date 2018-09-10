@@ -2,7 +2,6 @@
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="sidebar">
  
-<div id="sidebar-toggle">&#8226; &#8226; &#8226;</div>
 <h3 id="sb-title">Table of Content</h3>
 
 <a class="toc-ref" href="#threads--week-1-">Threads</a><br>
@@ -58,7 +57,3 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Resources
 * [CPHBusiness Github W4](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
 * ...
-
-<div id="alpha">Hover over me!</div>
-<div id="beta">I will show on hover</div>
-
