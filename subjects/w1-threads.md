@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"-->
 
 # Threads (week 1)
 
@@ -12,7 +12,7 @@
 <a class="toc-ref" href="#exercises">Exercises</a><br>
 <a class="toc-ref" href="#curriculum">Curriculum</a><br>
 <a class="toc-ref" href="#resources">Resources</a><br>
-<div id="sidebar-bars"><i class="fa fa-bars"></i></div>
+<!--div id="sidebar-bars"><i class="fa fa-bars"></i></div-->
 </div>
 
 ### Definition
