@@ -49,7 +49,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 <div class="break"><br></div>
  
-## [W4. **ORM (Object Relational Mapping) with JPA (Java Persistence API)**](w4-orm-jpa.md)
+## [W4. **ORM (Object Relational Mapping) with JPA (Java Persistence API)**](subjects/w4-orm-jpa.md)
 
 ### Exercises
 * **Day 1**
