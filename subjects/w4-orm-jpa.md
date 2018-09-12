@@ -48,4 +48,7 @@
   * Kunne demonstrere kode med komplekse JPQL Queries"
 
 ### Resources
-* ...
+* [wiki, Object Relational Mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [wikibook, Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence)
+* [wikibook, Java Persistance (JPA Relationship Types)](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types)
+* [wikibook, Java Persistance (Querying)](https://en.wikibooks.org/wiki/Java_Persistence/Querying)
