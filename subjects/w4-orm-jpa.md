@@ -52,3 +52,4 @@
 * [wikibook, Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence)
 * [wikibook, Java Persistance (JPA Relationship Types)](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types)
 * [wikibook, Java Persistance (Querying)](https://en.wikibooks.org/wiki/Java_Persistence/Querying)
+* [wikibook, Java Persistance (JPQL)](https://en.wikibooks.org/wiki/Java_Persistence/JPQL)
