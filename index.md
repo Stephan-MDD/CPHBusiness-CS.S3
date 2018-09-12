@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 # Material Collection - 3. Semester 2018
 Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 <div class="sidebar">
@@ -7,8 +5,8 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <a class="toc-ref" href="#w1-concurrency-and-threads">Threads</a><br>
     <a class="toc-ref" href="#w2-networks-http-x-as-a-service-virtualization-tls">HTTP Network</a><br>
     <a class="toc-ref" href="#w3-javascript-and-the-document-object-model-dom">JavaScript</a><br>
-    <a class="toc-ref" href="#w4-orm-object-relational-mapping-with-jpa-java-persistence-api">ORM JPA &#9776;</a><br>
-    <div id="sidebar-bars"><i class="fa fa-bars"></i></div>
+    <a class="toc-ref" href="#w4-orm-object-relational-mapping-with-jpa-java-persistence-api">ORM JPA</a><br>
+    <div id="sidebar-bars">☰</div>
 </div>
 
 <div class="break"><br></div>
