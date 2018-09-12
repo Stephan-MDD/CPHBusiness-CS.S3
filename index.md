@@ -57,4 +57,7 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 
 ### Resources
 * [CPHBusiness Github W4](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
-* ...
+* [wiki, Object Relational Mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [wikibook, Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence)
+* [wikibook, Java Persistance (JPA Relationship Types)](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types)
+* [wikibook, Java Persistance (Querying)](https://en.wikibooks.org/wiki/Java_Persistence/Querying)
