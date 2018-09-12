@@ -56,9 +56,12 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
   * ...
 
 ### Resources
-* [**CPHBusiness Github S3.W4**](https://github.com/Cphdat3sem2018f/week4-ORM-JPA)
 * [wiki, Object Relational Mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [wikibook, Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence)
 * [wikibook, Java Persistance (JPA Relationship Types)](https://en.wikibooks.org/wiki/Java_Persistence/Relationships#JPA_Relationship_Types)
 * [wikibook, Java Persistance (Querying)](https://en.wikibooks.org/wiki/Java_Persistence/Querying)
-* [wikibook, Java Persistance (JPQL)](https://en.wikibooks.org/wiki/Java_Persistence/JPQL)
+* [JPA 2 Annotations](https://www.objectdb.com/api/java/jpa/annotations)
+* [Netbeans Persistence Pnit Tutorial](http://wiki.netbeans.org/SimpleJPAApplicationWithNetbeans#Create_Persistence_Unit)
+* [JPA Setup (video)](https://www.twitch.tv/videos/168683174)
+* [JPA database table -> entityclass (video)](https://www.twitch.tv/videos/168934609)
+* [JPA Relationships (video)](https://www.twitch.tv/videos/168939780)
