@@ -20,6 +20,9 @@
 ### Exercises
 * **Day 1**
   * [Exercise 1](w4-exercises/w4d1e1.md)
+  
+  * **Day 2**
+  * [Exercise 1](w4-exercises/w4d2e1.md)
 
 ### Curriculum
 * **Day 1**
