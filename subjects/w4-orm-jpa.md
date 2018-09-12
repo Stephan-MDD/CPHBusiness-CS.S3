@@ -4,15 +4,17 @@
 
 [*back to index*](../index.md)
 
-<div class="sidebar">
- 
-<h3 id="sb-title">Table of Content</h3>
+<div class="sidebar"> 
+ <h3 id="sb-title">Table of Content</h3>
+ <ol>
+  <li> <a class="toc-ref" href="#definition">Definition</a> </li>
+  <li> <a class="toc-ref" href="#exercises">Exercises</a> </li>
+  <li> <a class="toc-ref" href="#curriculum">Curriculum</a> </li>
+  <li> <a class="toc-ref" href="#resources">Resources</a> </li>
+ </ol>
+  
+  <div id="sidebar-bars"><i class="fa fa-bars"></i></div>
 
-<a class="toc-ref" href="#definition">Definition</a><br>
-<a class="toc-ref" href="#exercises">Exercises</a><br>
-<a class="toc-ref" href="#curriculum">Curriculum</a><br>
-<a class="toc-ref" href="#resources">Resources</a><br>
-<div id="sidebar-bars"><i class="fa fa-bars"></i></div>
 </div>
 
 ### Definition
