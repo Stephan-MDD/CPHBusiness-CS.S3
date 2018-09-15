@@ -9,6 +9,12 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
     <div id="sidebar-bars">☰</div>
 </div>
 
+
+<p class="answer">This is an answer</p>
+
+<p class="answer">This is an<br>
+mutipleline answer</p>
+
 <div class="break"><br></div>
  
 ## [W1. **Concurrency and Threads**](subjects/w1-threads.md)
@@ -16,11 +22,6 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 ### Exercises
 * **Day 1**
   * ...
-
-<p class="answer">This is an answer</p>
-
-<p class="answer">This is an<br>
-mutipleline answer</p>
 
 ### Resources
 * [CPHBusiness Github W1](https://github.com/Cphdat3sem2018f/week1-threads)
@@ -32,6 +33,9 @@ mutipleline answer</p>
 
 ### Exercises
 * **Day 1**
+  * [Exercise 1](subjects/w2-exercises/w2d1e1.md)
+  
+* **Day 2**
   * ...
 
 ### Resources
