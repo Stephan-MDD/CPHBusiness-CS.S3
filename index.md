@@ -17,6 +17,11 @@ Stephan Djurhuus @ CPHBusiness CS *(Computer Sience)*
 * **Day 1**
   * ...
 
+<p class="answer">This is an answer</p>
+
+<p class="answer">This is an<br>
+mutipleline answer</p>
+
 ### Resources
 * [CPHBusiness Github W1](https://github.com/Cphdat3sem2018f/week1-threads)
 * ...
