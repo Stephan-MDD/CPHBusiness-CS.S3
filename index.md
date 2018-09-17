@@ -72,3 +72,14 @@ mutipleline answer</p>
 * [JPA Setup (video)](https://www.twitch.tv/videos/168683174)
 * [JPA database table -> entityclass (video)](https://www.twitch.tv/videos/168934609)
 * [JPA Relationships (video)](https://www.twitch.tv/videos/168939780)
+
+<div class="break"><br></div>
+ 
+## [W5. **ORM (REST (RESTful Webservices) with JAX-RS**](subjects/w4-orm-jpa.md)
+
+### Exercises
+* **Day 1**
+  * ...
+
+### Resources
+* [**CPHBusiness Github W5**](https://github.com/Cphdat3sem2018f/week5-REST-JSON/tree/master/A)
