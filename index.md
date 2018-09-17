@@ -69,9 +69,9 @@ mutipleline answer</p>
 * [wikibook, Java Persistance (Querying)](https://en.wikibooks.org/wiki/Java_Persistence/Querying)
 * [JPA 2 Annotations](https://www.objectdb.com/api/java/jpa/annotations)
 * [Netbeans Persistence Pnit Tutorial](http://wiki.netbeans.org/SimpleJPAApplicationWithNetbeans#Create_Persistence_Unit)
-* [JPA Setup (video)](https://www.twitch.tv/videos/168683174)
-* [JPA database table -> entityclass (video)](https://www.twitch.tv/videos/168934609)
-* [JPA Relationships (video)](https://www.twitch.tv/videos/168939780)
+* [video, JPA Setup](https://www.twitch.tv/videos/168683174)
+* [video, JPA database table -> entityclass](https://www.twitch.tv/videos/168934609)
+* [video, JPA Relationships](https://www.twitch.tv/videos/168939780)
 
 <div class="break"><br></div>
  
@@ -83,3 +83,8 @@ mutipleline answer</p>
 
 ### Resources
 * [**CPHBusiness Github W5**](https://github.com/Cphdat3sem2018f/week5-REST-JSON/tree/master/A)
+* [tutorial, RESTful Web Services](http://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069?pgno=1)
+* [tutorial, Oracle Java Web Services (Chapter 27 - 29)](https://docs.oracle.com/javaee/7/tutorial/partwebsvcs.htm#BNAYK)
+* [Jersey 2.27 UserGuide (JAX-RS Application)](https://jersey.github.io/documentation/latest/jaxrs-resources.html)
+* [W3Schools - JSON](https://www.w3schools.com/js/js_json_intro.asp)
+* ...
