@@ -18,6 +18,8 @@
 
 ### Definition
 
+[TEST::](w2-exercises/w2d1e1.md)
+
 ### Exercises
 * **Day 1**
   * ...
